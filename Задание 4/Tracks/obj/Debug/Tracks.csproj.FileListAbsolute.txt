@@ -1,0 +1,8 @@
+C:\Users\Александр\OneDrive\Рабочий стол\Колупаев Александр\Tracks\Tracks\bin\Debug\Tracks.exe.config
+C:\Users\Александр\OneDrive\Рабочий стол\Колупаев Александр\Tracks\Tracks\bin\Debug\Tracks.exe
+C:\Users\Александр\OneDrive\Рабочий стол\Колупаев Александр\Tracks\Tracks\bin\Debug\Tracks.pdb
+C:\Users\Александр\OneDrive\Рабочий стол\Колупаев Александр\Tracks\Tracks\obj\Debug\Tracks.csproj.AssemblyReference.cache
+C:\Users\Александр\OneDrive\Рабочий стол\Колупаев Александр\Tracks\Tracks\obj\Debug\Tracks.csproj.SuggestedBindingRedirects.cache
+C:\Users\Александр\OneDrive\Рабочий стол\Колупаев Александр\Tracks\Tracks\obj\Debug\Tracks.csproj.CoreCompileInputs.cache
+C:\Users\Александр\OneDrive\Рабочий стол\Колупаев Александр\Tracks\Tracks\obj\Debug\Tracks.exe
+C:\Users\Александр\OneDrive\Рабочий стол\Колупаев Александр\Tracks\Tracks\obj\Debug\Tracks.pdb
